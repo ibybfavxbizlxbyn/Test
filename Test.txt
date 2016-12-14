@@ -1,1 +1,1 @@
-cout << "I love GitHub"
+cout << "I love GitHub" << endl;
